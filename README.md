@@ -2,6 +2,8 @@
 Wuyang Chung, wy-chung@outlook.com
 
 Apr 7, 2021
+
+You can see the video of this presentation on [YouTube](https://www.youtube.com/watch?v=sjPNNCQwT0w&list=PL5d-EWnuoeCpW6n0K4Gdjk0pp5TSS0RKv&index=2&ab_channel=wy-chung).
 ## Abstract
 This paper describes several old computer science technologies, i.e. single address space operating system, capability-based addressing and segmentation. These technologies combined together can create a system that is simple, secure and fast. Although segmentation is in x86 architecture, it is not suited for building a capability-based addressing system. This paper describes a segmentation architecture that is suited for building a capability-based single address space operating system. It also illustrates several other benefits that we can get from segmentation, such as software-managed TLB, performance improvement for big memory servers, IOMMU simplification, quasi-statically linked shared-library, cross domain call, etc.
 ## Introduction
