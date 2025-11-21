@@ -70,6 +70,7 @@ Segmentation is a way to implement capability-based addressing system and capabi
 
 7. Jeffrey S. Chase, Henry M. Levy, Michael J. Feeley, and Edward D. Lazowska. Sharing and Protection in a Single Address Space Operating System. ACM Transactions on Computer Systems, 12(4), November 1994.
 
-8. [System support for microkernel operating systems](https://medium.com/@wy.chung/system-support-for-microkernel-operating-systems-204f5a2610c0).
+8. [System support for microkernel operating systems](https://medium.com/@wy.chung/system-support-for-microkernel-operating-systems-204f5a2610c0), November 2025.
 <!-- This is a comment -->
+
 
