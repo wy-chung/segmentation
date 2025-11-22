@@ -4,6 +4,8 @@ Wuyang Chung, wy-chung@outlook.com
 Apr 7, 2021
 
 You can see the video of this presentation on [YouTube](https://www.youtube.com/watch?v=sjPNNCQwT0w&list=PL5d-EWnuoeCpW6n0K4Gdjk0pp5TSS0RKv&index=2&ab_channel=wy-chung).
+
+For latest update, please check [System support for microkernel operating systems](https://medium.com/@wy.chung/system-support-for-microkernel-operating-systems-204f5a2610c0), November 2025.
 ## Abstract
 This paper describes several old computer science technologies, i.e. single address space operating system, capability-based addressing and segmentation. These technologies combined together can create a system that is simple, secure and fast. Although segmentation is in x86 architecture, it is not suited for building a capability-based addressing system. This paper describes a segmentation architecture that is suited for building a capability-based single address space operating system. It also illustrates several other benefits that we can get from segmentation, such as software-managed TLB, performance improvement for big memory servers, IOMMU simplification, quasi-statically linked shared-library, cross domain call, etc.
 ## Introduction
@@ -70,7 +72,7 @@ Segmentation is a way to implement capability-based addressing system and capabi
 
 7. Jeffrey S. Chase, Henry M. Levy, Michael J. Feeley, and Edward D. Lazowska. Sharing and Protection in a Single Address Space Operating System. ACM Transactions on Computer Systems, 12(4), November 1994.
 
-8. [System support for microkernel operating systems](https://medium.com/@wy.chung/system-support-for-microkernel-operating-systems-204f5a2610c0), November 2025.
 <!-- This is a comment -->
+
 
 
